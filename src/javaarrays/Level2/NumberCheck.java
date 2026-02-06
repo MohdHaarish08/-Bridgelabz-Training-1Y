@@ -1,4 +1,4 @@
-package JavaArrays.Level1;
+package javaarrays.Level2;
 import java.util.Scanner;
 public class NumberCheck {
         public static void main(String[] args) {
